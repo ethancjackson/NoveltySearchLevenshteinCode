@@ -1,0 +1,6 @@
+Mean Game Scores
+[296.6666666666667, 490.19607843137254]
+Best Game Scores
+[1420.0, 1280.0]
+Mean Validation Scores Over 5 Episodes
+[224.0, 706.0]

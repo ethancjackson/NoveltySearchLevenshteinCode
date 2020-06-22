@@ -1,0 +1,1 @@
+{"in_shape": "(84, 84, 4)", "out_shape": "(9,)", "init_connect_rate": "1.0", "init_seed": "22", "generation_seeds": ["1372399687"], "in_size": "28224", "out_size": "9", "num_neurons": "28233"}
