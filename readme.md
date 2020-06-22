@@ -1,3 +1,7 @@
+## Novelty Search for Deep Reinforcement Learning Policy Network Weights by Action Sequence Edit Metric Distance
+
+Source code for experiments on pure and hybrid novelty search for DQN policy network weights using a genetic algorithm based on https://arxiv.org/abs/1712.06567 (Such et al., 2017).
+
 ## Citation
 
     @inproceedings{jackson2019novelty,
